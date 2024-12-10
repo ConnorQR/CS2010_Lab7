@@ -1,0 +1,13 @@
+Connor Roberts
+CS2010 Lab Assignment 7
+
+The program reads from a file and calculates how many characters, words, and lines are in the file.
+
+to build it enter gcc -o Prog1 Prog1_Files Prog1.cpp in the terminal
+to run it enter ./Prog1 in the terminal
+(I have no idea how to run these files in Ubuntu)
+
+I was never able to get the vertical histogram to print because I wasn't able to figure out why the for loop for the multimap wasn't working. The only way that I could get the frequency list to work was by copying your example however before I did that I had the expect same for loop but that didn't work so I dont know why your worked while mine did not.
+
+
+
